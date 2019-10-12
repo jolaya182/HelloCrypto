@@ -1,0 +1,6 @@
+{
+    "eslint.trace.server": "messages",
+    "eslint.workingDirectories": ["client"], 
+    "eslint.nodePath": "app/node_modules"
+
+}
